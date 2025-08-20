@@ -1,0 +1,6 @@
+{
+  "log_directory": "logs",
+  "log_extension": ".klg",
+  "encryption_key": "my-super-secure-encryption-key-32-chars",
+  "check_interval": 1.0
+}
